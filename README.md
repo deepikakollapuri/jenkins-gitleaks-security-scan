@@ -1,0 +1,1 @@
+# jenkins-gitleaks-security-scan
